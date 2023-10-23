@@ -1,0 +1,5 @@
+CREATE DATABASE todoapp;
+
+CREATE TABLE todos (
+    id VACHAR(255)
+)
