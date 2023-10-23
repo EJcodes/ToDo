@@ -4,6 +4,7 @@ const ListHeader = ({ listName }) => {
   const signOut = () => {
     console.log("signOut")
     }
+    
     return (
       <div className="list-header">
         <h1>{listName}</h1>
